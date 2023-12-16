@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,d as e}from"./index-0f97b1b0.js";const c={name:"ProductThree",setup(){return{}}},r={class:"product-two"},a=e("div",{class:"container mx-auto p-2"},[e("div",{class:"w-full h-auto"})],-1),n=[a];function _(d,u,i,p,l,f){return s(),o("section",r,n)}const m=t(c,[["render",_]]);export{m as default};
